@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avalme82/consumo-api-rest.git"
+  },
+  "author": "Francisco Adrian Valdez Mejía",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avalme82/consumo-api-rest/issues"
+  },
+  "homepage": "https://github.com/avalme82/consumo-api-rest#readme"
+}
